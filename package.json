@@ -12,7 +12,7 @@
     "gulp-concat": "^2.6.1"
   },
   "scripts": {
-    "test": "powershell -File .vscode\\RunPesterTests.ps1"
+    "test": "powershell -Files .vscode\\RunPesterTests.ps1"
   },
   "repository": {
     "type": "git",
